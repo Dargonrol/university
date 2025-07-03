@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithmen und Datenstrukturen/Kapitel 02 - Sortieren.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kapitel 02 - Sortieren"
+              "title": "README"
             }
           }
         ]
@@ -168,9 +168,9 @@
   "active": "783eda4d0bc08b07",
   "lastOpenFiles": [
     "Algorithmen und Datenstrukturen/00 - Dashboard.md",
-    "Algorithmen und Datenstrukturen/Kapitel 01 - Introduction.md",
-    "Algorithmen und Datenstrukturen/Kapitel 02 - Sortieren.md",
     "README.md",
+    "Algorithmen und Datenstrukturen/Kapitel 02 - Sortieren.md",
+    "Algorithmen und Datenstrukturen/Kapitel 01 - Introduction.md",
     "Algorithmen und Datenstrukturen/Untitled",
     "Algorithmen und Datenstrukturen"
   ]
