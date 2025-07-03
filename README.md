@@ -1,6 +1,8 @@
 # university
+
 All my notes for university WIP
 
 ## content
-- [[00 - Dashboard|Algorithmen und Datenstrukturen]]
-- WIP
+
+* [Algorithmen und Datenstrukturen](github-files\Algorithmen%20und%20Datenstrukturen\-Dashboard.md)
+* WIP
